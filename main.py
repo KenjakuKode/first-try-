@@ -164,5 +164,3 @@ if __name__ == "__main__":
             pass
 
     view_own_projects("User1")
-
-print("coba test")
